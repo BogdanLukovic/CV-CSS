@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+}
+
+.top-container{
+    background-color: darkmagenta;
+}
+
+.middle-container{
+    background-color: aquamarine;
+}
+
+.bottom-container{
+    background-color: coral;
+}
